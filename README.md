@@ -8,10 +8,13 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import Necessary Python Library And Read The CSV File Using Pandas
+2. Conduct Necessary Preprocessing Steps 
+3. Use Lable Encoder To Convert All The Datas Into Numberical Values
+4. Split The Data Set For Training And Testing
+5. Store The DecisionTreeClassifier With Entropy Criterion Inside A Variable
+6. Fit the Model
+7. Conduct Prediction, Evaluate Accuracy and Predict The Value On Test Data
 
 ## Program:
 ```
