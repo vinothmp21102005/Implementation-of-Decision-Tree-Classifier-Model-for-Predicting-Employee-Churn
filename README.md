@@ -52,6 +52,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/ff26ad8d-64a1-47ea-8874-4019c4c942b4)
+
 Null Values:
 
 ![image](https://github.com/user-attachments/assets/9b4f6ca5-4051-4270-a610-7ae3d06cdd72)
