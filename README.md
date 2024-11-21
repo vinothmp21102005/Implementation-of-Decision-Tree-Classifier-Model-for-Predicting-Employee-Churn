@@ -29,7 +29,7 @@ step 8: Use the model to predict new data.
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: VINOTH M P M P
+Developed by: VINOTH M P 
 RegisterNumber:  21222324010182
 */
 import pandas as pd
