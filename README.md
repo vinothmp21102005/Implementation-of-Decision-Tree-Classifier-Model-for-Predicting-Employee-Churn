@@ -9,15 +9,21 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ### Algorithm
 
-Step 1: Collect and clean employee data.
+Step 1: Read the employee data from a CSV file.
 
-Step 2: Train a decision tree model on the data.
+Step 2: Check for null values and encode categorical variables.
 
-Step 3: Evaluate the model's performance.
+Step 3: Define the features (X) and target (y).
 
-Step 4: Tune hyperparameters and consider ensemble methods.
+Step 4: Split the data into training and testing sets.
 
-Step 5: Save and deploy the model for predictions.
+Step 5: Train the Decision Tree Classifier.
+
+step 6: Make predictions on the test data.
+
+step 7: Calculate the accuracy of the model.
+
+step 8: Use the model to predict new data.
 
 ### Program:
 ```
